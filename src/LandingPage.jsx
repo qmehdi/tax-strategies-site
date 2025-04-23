@@ -1,5 +1,5 @@
 
-import { Button } from "@/components/ui/button";
+// import { Button } from "@/components/ui/button";
 import { ArrowRight } from "lucide-react";
 
 export default function LandingPage() {
@@ -14,9 +14,9 @@ export default function LandingPage() {
             Tax-efficient strategies for building, protecting, and passing on your wealth. Specialized in life insurance, retirement income, and advanced tax planning for high-net-worth individuals.
           </p>
           <div className="mt-8">
-            <Button className="text-lg px-6 py-4">
+            <button className="text-lg px-6 py-4 bg-black text-white rounded-lg inline-flex items-center">
               Schedule Your Strategy Call <ArrowRight className="ml-2" />
-            </Button>
+            </button>
           </div>
         </header>
 
