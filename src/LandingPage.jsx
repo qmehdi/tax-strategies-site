@@ -29,7 +29,7 @@ export default function LandingPage() {
           </div>
 
           <div className="p-6 shadow-xl bg-white rounded-2xl border border-blue-100 hover:shadow-2xl transition-shadow">
-            <h2 className="text-2xl font-semibold mb-2">Indexed Life Insurance</h2>
+            <h2 className="text-2xl font-semibold mb-2">Indexed Universal Life Insurance</h2>
             <p className="text-gray-600">
               Leverage market-linked returns with downside protection to grow tax-free income and provide a legacy.
             </p>
