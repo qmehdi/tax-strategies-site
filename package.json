@@ -2,7 +2,7 @@
   "name": "tax-strategies-site",
   "version": "1.0.0",
   "private": true,
-  "homepage": "https://<your-github-username>.github.io/tax-strategies-site",
+  "homepage": "https://qmehdi.github.io/tax-strategies-site",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
